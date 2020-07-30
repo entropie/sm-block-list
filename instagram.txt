@@ -2,7 +2,6 @@
 # Curated from sources online.
 # Last updated: 9 december 2019
 # https://raw.githubusercontent.com/gieljnssns/Social-media-Blocklists/master/adguard-instagram.txt
-
 ||api.instagram.com
 ||black.ish.instagram.com
 ||i.instagram.com

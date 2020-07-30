@@ -1,5 +1,4 @@
-# created at: 2020-07-26 18:03:35 +0200
-
+# created at: 2020-07-30 16:11:50 +0200
 ||api.instagram.com
 ||black.ish.instagram.com
 ||i.instagram.com
@@ -65,6 +64,8 @@
 ||cdninstagram.com
 ||dogforum.de
 ||jagdhundehalter.de
+||zergportal.de
+||deine-tierwelt.de
 ||api-h2.tiktokv.com
 ||api21-h2.tiktokv.com
 ||ns-440.awsdns-55.com
